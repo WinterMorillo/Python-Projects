@@ -1,8 +1,8 @@
 """
 This is split calculator program
-You went out with your friends and it is time to pay for the bill?
+You went out with your friends, and it is time to pay the bill?
 
-Use this program to determine what the amount each of your friends need to pay
+Use this program to determine the amount each of your friends need to pay
 
 Steps:
 
